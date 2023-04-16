@@ -1,0 +1,22 @@
+.pic{
+    margin-top: 150px;
+    margin-left:400px;
+}
+
+.sub-btn{
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #009dff;
+    color: white;
+    border: none;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.pic input{
+    padding: 10px;
+    border: solid 1px #0000003e;
+    font-family: 'Roboto', sans-serif;
+    width: 400px;
+    resize: vertical;
+    border-radius: 7px;
+}
